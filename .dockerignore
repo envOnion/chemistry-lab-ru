@@ -1,0 +1,11 @@
+**
+!Dockerfile
+!nginx.conf
+!index.html
+!catalog.json
+!LICENSE
+!THIRD_PARTY_NOTICES.md
+!courses/
+!courses/*.html
+!covers/
+!covers/*.webp
